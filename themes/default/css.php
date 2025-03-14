@@ -2205,7 +2205,6 @@ else { //default: white
 		-webkit-transition: all 0.25s ease;
 		-moz-transition: all 0.25s ease;
 		transition: all 0.25s ease;
-		vertical-align: middle;
 		}
 
 	input[type=text].list-search:focus {
